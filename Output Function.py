@@ -1,0 +1,7 @@
+print(123)
+print(100000000)
+print(123.123)
+print("MRIST")
+print("MRIST",1021,4.8)
+print("MRIST",1021,4.8,sep=" ")  
+print("MRIST",1021,4.8,sep="+")  
